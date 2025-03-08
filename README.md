@@ -29,23 +29,6 @@ Biblioteka Tkinter
 Biblioteka NumPy
 
 
-Instalacja
-
-Sklonuj repozytorium
-
-git clone https://github.com/twoje_repo/statista.git
-cd statista
-
-statista/
-│── SGH_Statystyka_wzory/
-│   ├── averages.py       # Funkcje do obliczania średnich
-│   ├── variances.py      # Funkcje wariancji i wartości oczekiwanej
-│   ├── asymetry.py       # Funkcje dotyczące asymetrii
-│   ├── mediana.py        # Funkcja do obliczania mediany
-│   ├── statista.py       # Główny plik aplikacji 
-│── README.md             # Opis projektu
-
-
 Sposób działania
 
 Uruchom aplikację.
