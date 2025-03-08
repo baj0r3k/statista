@@ -39,6 +39,7 @@ Wybierz odpowiednią funkcję statystyczną poprzez kliknięcie przycisku.
 
 Wynik zostanie wyświetlony w oknie dialogowym.
 
+![Statista_Photo](https://github.com/user-attachments/assets/d3440ef1-1b5a-4d34-a1c3-c754ed247181)
 
 Przykłady użycia
 
@@ -47,3 +48,5 @@ Przykłady użycia
 *Obliczenie mediany: Wpisz w pierwszej luce 5, 10, 15, 20, 25 i kliknij mediana.
 
 *Obliczenie wartości oczekiwanej: Wpisz 1,2,3 jako wartości oraz 0.2,0.5,0.3 jako prawdopodobieństwa, a następnie kliknij E(x)
+
+
