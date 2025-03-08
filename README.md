@@ -18,26 +18,23 @@ Statista to prosta aplikacja stworzona w Pythonie z wykorzystaniem biblioteki Tk
 
 Aplikacja pozwala na szybkie wprowadzenie danych w postaci liczb oddzielonych przecinkami oraz ich natychmiastowe przetworzenie.
 
-Wymagania
+    Wymagania
 
-Do uruchomienia aplikacji wymagane jest:
+        Do uruchomienia aplikacji wymagane jest:
 
-Python 3.8 lub nowszy
+            Biblioteka Tkinter
 
-Biblioteka Tkinter
+            Biblioteka NumPy
 
-Biblioteka NumPy
 
 
 Sposób działania
 
-Uruchom aplikację.
+    1) Wprowadź dane liczbowe oddzielone przecinkami w odpowiednich polach tekstowych.
 
-Wprowadź dane liczbowe oddzielone przecinkami w odpowiednich polach tekstowych.
+    2) Wybierz odpowiednią funkcję statystyczną poprzez kliknięcie przycisku.
 
-Wybierz odpowiednią funkcję statystyczną poprzez kliknięcie przycisku.
-
-Wynik zostanie wyświetlony w oknie dialogowym.
+    3) Wynik zostanie wyświetlony w oknie dialogowym.
 
 ![Statista_Photo](https://github.com/user-attachments/assets/d3440ef1-1b5a-4d34-a1c3-c754ed247181)
 
